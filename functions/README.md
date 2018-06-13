@@ -4,33 +4,6 @@ Functions, are one of the most powerful and essential notions in programming.
 
 Functions like mathematical functions perform transformations, they take input values called **arguments** and **return** an output value.
 
-Klassendiagram
-**
-11
-2
-Voorraad
-Locatiecode Productcode Aantal
- 
- 
-Fabriek
- 
-Fabriekscode Fabriek
- 
- 
-Locatie
- 
-Locatiecode Locatie
- 
- 
-  
-Product
- 
-Productcode Product Fabriekscode Type Inkoopsprijs Verkoopprijs
- 
- 1
- *
-Medewerker
-Medewerkerscode Voorletters Voorvoegsels Achternaam Naam Gebruikersnaam Wachtwoord
 Normalisatie waarde Voorraad
 Lijst gegevens
 Titel
@@ -125,30 +98,3 @@ Locatie Voorraad Artikel Fabriek
 Locatiecode, locatie
 Locatiecode, productcode, aantal
 Productcode, product, type, fabriekscode, inkoopprijs, verkoopprijs Fabriekscode, fabriek, telefoon
-5
-         
-EntiteitRelatieDiagram
-6
- 
-Artikel
- 
-Productcode Product Type Fabriekscode Inkoopprijs Verkoopprijs
- 
-Locatie
- 
-Locatiecode Locatie
- 
-Voorraad
- 
- Locatiecode Productcode Aantal
- 
-Fabriek
- 
-Fabriekscode Fabriek Telefoon
-  0
-0
-    0
- 
-Medewerker
- 
-Medewerkerscode Voorletters Voorvoegsels Achternaam Gebruikersnaam Wachtwoord
