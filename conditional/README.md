@@ -7,4 +7,5 @@ First of all conditions can be used to ensure that your program works, regardles
 The other thing conditions can do for you is allow for branching. You might have encountered branching diagrams before, for example when filling out a form. Basically, this refers to executing different “branches” (parts) of code, depending on if the condition is met or not.
 
 In this chapter, we'll learn the base of conditional logic in Javascript.
-https://drive.google.com/open?id=1OSsvs_aRNC9MSuTiJBSbYwTcQaPIMqMO
+
+https://drive.google.com/file/d/1OSsvs_aRNC9MSuTiJBSbYwTcQaPIMqMO/view?usp=sharing
