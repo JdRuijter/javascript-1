@@ -101,3 +101,6 @@ insert into medewerker (medewerkerscode, voorletters, voorvoegsel, achternaam, g
 			('dijkb', 'B. R.', 'van', 'Dijk', 'Dijkb',	SHA1('KjU6T43!'));
 
 SET foreign_key_checks = 1;
+
+
+https://drive.google.com/file/d/1T177ZPkgTz6sxrFNhI-uAKMnMtlE_x67/view?usp=sharing
